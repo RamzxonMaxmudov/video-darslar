@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("GIT UCHUN O'ZGARISH KIRITILDI")
         print("GIT UCHUN YANA BIR O'ZGARISH KIRITILDI github SAYITI ORQALI")
+        print("GIT FECH BYRUG'INI O'RGANISH UCHUN KIRITILGAN PRINT")
     }
 
 
