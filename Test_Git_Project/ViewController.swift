@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("GIT UCHUN O'ZGARISH KIRITILDI")
+        print("GIT UCHUN YANA BIR O'ZGARISH KIRITILDI github SAYITI ORQALI")
     }
 
 
