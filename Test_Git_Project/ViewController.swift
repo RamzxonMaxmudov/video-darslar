@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("GIT UCHUN O'ZGARISH KIRITILDI")
         print("GIT UCHUN YANA BIR O'ZGARISH KIRITILDI github SAYITI ORQALI")
         print("GIT FETCH BYRUG'INI O'RGANISH UCHUN KIRITILGAN PRINT")
+        print("branch bo'yicha mashqlar")
     }
 
 
